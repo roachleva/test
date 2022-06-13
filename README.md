@@ -1,3 +1,3 @@
 # fhtc8k
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/fhtc8k)
+This is completely beginner code for css grid by roach
